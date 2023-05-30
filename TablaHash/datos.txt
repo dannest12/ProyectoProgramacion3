@@ -1,0 +1,10 @@
+45,cuarantaycinco
+56,cincuentayseis
+78,setentayocho
+90,noventa
+12,doce
+23,veintitres
+14,catorce,
+15,quince
+100,cien
+200,docientos
